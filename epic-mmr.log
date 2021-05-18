@@ -1,0 +1,506 @@
+[03:00:14] [RankTrackMod] Resync local MMR triggered
+[03:00:15] [bakkesmod] Got MMR request for mu=39.7334, sigma=5.68928, played=4 calculated result: 894.668
+[03:00:15] [bakkesmod] Got MMR request for mu=48.6972, sigma=6.08116, played=4 calculated result: 1073.94
+[03:00:15] [bakkesmod] Got MMR request for mu=55.18, sigma=2.54604, played=36 calculated result: 1203.6
+[03:00:15] [bakkesmod] Got MMR request for mu=53.0173, sigma=4.22956, played=17 calculated result: 1160.35
+[03:00:15] [bakkesmod] Got MMR request for mu=24.5826, sigma=7.72423, played=2 calculated result: 591.652
+[03:00:15] [bakkesmod] Got MMR request for mu=32.3344, sigma=7.78218, played=2 calculated result: 746.688
+[03:00:15] [bakkesmod] Got MMR request for mu=25, sigma=8.333, played=0 calculated result: 600
+[03:00:15] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:00:15] [bakkesmod] Adding mmr notifier with ID: 326
+[03:00:15] [bakkesmod] Adding mmr notifier with ID: 328
+[03:00:15] [bakkesmod] Got MMR request for mu=55.18, sigma=2.54604, played=36 calculated result: 1203.6
+[03:00:15] [bakkesmod] Got MMR request for mu=48.6972, sigma=6.08116, played=4 calculated result: 1073.94
+[03:00:15] [bakkesmod] Got MMR request for mu=39.7334, sigma=5.68928, played=4 calculated result: 894.668
+[03:00:15] [bakkesmod] Got MMR request for mu=24.5826, sigma=7.72423, played=2 calculated result: 591.652
+[03:00:15] [bakkesmod] Got MMR request for mu=32.3344, sigma=7.78218, played=2 calculated result: 746.688
+[03:00:15] [bakkesmod] Got MMR request for mu=53.0173, sigma=4.22956, played=17 calculated result: 1160.35
+[03:00:15] [bakkesmod] Got MMR request for mu=25, sigma=8.333, played=0 calculated result: 600
+[03:00:23] [bakkesmod] > plugin load mmrnotifiertest
+[03:00:23] [bakkesmod] Trying LoadLibraryW
+[03:00:23] [bakkesmod] On file: C:\Users\monsi\AppData\Roaming\bakkesmod\bakkesmod\plugins/mmrnotifiertest.dll. 
+[03:00:23] [bakkesmod] Called LoadLibraryW 
+[03:00:23] [bakkesmod] Plugin Info: 
+[03:00:23] [bakkesmod] API Version: 95
+[03:00:23] [bakkesmod] File Name: C:\Users\monsi\Desktop\bakkesmod\MMRNotifierTest\MMRNotifierTest\MMRNotifierTest.cpp
+[03:00:23] [bakkesmod] Class Name: MMRNotifierTest
+[03:00:23] [bakkesmod] Plugin Name: write a plugin description here
+[03:00:23] [bakkesmod] Game events: 1
+[03:00:23] [bakkesmod] Plugin Version: 1.0.0.1
+[03:00:23] [bakkesmod] Adding mmr notifier with ID: 329
+[03:00:23] [bakkesmod] Plugin mmrnotifiertest loaded successfully.
+[03:00:24] [bakkesmod] Got MMR request for mu=39.7334, sigma=5.68928, played=4 calculated result: 894.668
+[03:00:24] [bakkesmod] Got MMR request for mu=48.6972, sigma=6.08116, played=4 calculated result: 1073.94
+[03:00:24] [bakkesmod] Got MMR request for mu=55.18, sigma=2.54604, played=36 calculated result: 1203.6
+[03:00:24] [bakkesmod] Got MMR request for mu=53.0173, sigma=4.22956, played=17 calculated result: 1160.35
+[03:00:24] [bakkesmod] Got MMR request for mu=24.5826, sigma=7.72423, played=2 calculated result: 591.652
+[03:00:24] [bakkesmod] Got MMR request for mu=32.3344, sigma=7.78218, played=2 calculated result: 746.688
+[03:00:24] [bakkesmod] Got MMR request for mu=25, sigma=8.333, played=0 calculated result: 600
+[03:00:24] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:00:26] [bakkesmod] Got MMR request for mu=55.18, sigma=2.54604, played=36 calculated result: 1203.6
+[03:00:26] [bakkesmod] Got MMR request for mu=48.6972, sigma=6.08116, played=4 calculated result: 1073.94
+[03:00:26] [bakkesmod] Got MMR request for mu=39.7334, sigma=5.68928, played=4 calculated result: 894.668
+[03:00:26] [bakkesmod] Got MMR request for mu=24.5826, sigma=7.72423, played=2 calculated result: 591.652
+[03:00:26] [bakkesmod] Got MMR request for mu=32.3344, sigma=7.78218, played=2 calculated result: 746.688
+[03:00:26] [bakkesmod] Got MMR request for mu=53.0173, sigma=4.22956, played=17 calculated result: 1160.35
+[03:00:26] [bakkesmod] Got MMR request for mu=25, sigma=8.333, played=0 calculated result: 600
+[03:00:32] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:00:32] [bakkesmod] Adding MMR:Epic|659b16b6c58349d9b85e2364637b4fca|0:PRE:1739.2|0|0 to the replay log
+[03:00:33] [RankShowMod] New game event set
+[03:00:33] [RankShowMod] New game event set
+[03:00:33] [RankShowMod] Match ended 78432256
+[03:00:33] [RankShowMod] Match ended2 -1
+[03:00:33] [RankShowMod] New game event set
+[03:00:33] [RankShowMod] Player can now leave
+[03:00:33] [AuthorativeSoccarMod] User is in freeplay
+[03:00:34] [FreeplayMod] ClearColor timeout
+[03:00:34] [FreeplayMod] Cars 1
+[03:00:34] [FreeplayMod] Clearing car color overrides for car 0
+[03:01:00] [bakkesmod] [class StreamAPIPlugin] Function TAGame.LoadingScreen_TA.HandlePreLoadMap
+[03:01:00] [bakkesmod] [class StreamAPIPlugin] CustomMapSupport: received map update for: JoinGameTransition
+[03:01:00] [bakkesmod] > closemenu queuemenu
+[03:01:00] [bakkesmod] Window queuemenu not found
+[03:01:00] [bakkesmod] > turn_clear_exercise
+[03:01:00] [RankShowMod] New game event set
+[03:01:00] [RankShowMod] New game event set
+[03:01:01] [bakkesmod] [class StreamAPIPlugin] Function TAGame.LoadingScreen_TA.HandlePreLoadMap
+[03:01:01] [bakkesmod] [class StreamAPIPlugin] CustomMapSupport: received map update for: Park_Rainy_P
+[03:01:01] [bakkesmod] > closemenu queuemenu
+[03:01:01] [bakkesmod] Window queuemenu not found
+[03:01:02] [RankShowMod] New game event set
+[03:01:02] [DecalMod] BakkesMod::Mod::DecalMod::ServerSetLoadout:152->c->PRI is NULL!
+[03:01:02] [DecalMod] BakkesMod::Mod::DecalMod::ServerSetLoadout:152->c->PRI is NULL!
+[03:01:02] [RankShowMod] New game event set
+[03:01:02] [RankShowMod] Player can now leave
+[03:01:02] [RankShowMod] New game event set
+[03:01:02] [RankShowMod] New game event set
+[03:01:02] [RankShowMod] Match ended -424594944
+[03:01:02] [RankShowMod] Match ended2 -1
+[03:01:02] [RankShowMod] New game event set
+[03:01:02] [RankShowMod] Player can now leave
+[03:01:02] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [bakkesmod] Adding Message from the Wizard:Additional replay data provided by BakkesMod. You can support our work at: https://www.patreon.com/bakkesmod to the replay log
+[03:01:02] [bakkesmod] Adding GameStartTime:2021-05-18T03:01:02-0400 to the replay log
+[03:01:02] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:01:02] [bakkesmod] Adding MMR:Epic|659b16b6c58349d9b85e2364637b4fca|0:PRE:1739.2|0|0 to the replay log
+[03:01:02] [DecalMod] BakkesMod::Mod::DecalMod::ServerSetLoadout:152->c->PRI is NULL!
+[03:01:02] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankTrackMod] Synced rating for 10. Old: 0, new: 39.7334
+[03:01:02] [RankTrackMod] Synced rating for 11. Old: 0, new: 48.6972
+[03:01:02] [RankTrackMod] Synced rating for 13. Old: 0, new: 55.18
+[03:01:02] [RankTrackMod] Synced rating for 27. Old: 0, new: 53.0173
+[03:01:02] [RankTrackMod] Synced rating for 28. Old: 0, new: 24.5826
+[03:01:02] [RankTrackMod] Synced rating for 29. Old: 0, new: 32.3344
+[03:01:02] [RankShowMod] Skill request completed
+[03:01:02] [RankShowMod] Notifying listeners about mmr update for Steam|76561199020787507|0
+[03:01:02] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:01:02] [bakkesmod] Adding MMR:Steam|76561199020787507|0:PRE:1763.68|0|0 to the replay log
+[03:01:02] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: Steam|76561199020787507|0
+[03:01:02] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:01:02] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:01:02] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:01:02] [RankShowMod] Player Steam|76561198335010787|0 is still syncing
+[03:01:02] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:01:02] [RankShowMod] Player Epic|647580cfe33141a6a1b55bedbeb392d9|0 is still syncing
+[03:01:02] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:01:02] [RankShowMod] Player XboxOne|2535442230192269|0 is still syncing
+[03:01:02] [RankShowMod] Setting rank for XboxOne|2535458247812985|0
+[03:01:02] [RankShowMod] Player XboxOne|2535458247812985|0 is still syncing
+[03:01:02] [RankShowMod] Skill request completed
+[03:01:02] [RankShowMod] Notifying listeners about mmr update for Steam|76561198335010787|0
+[03:01:02] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:01:02] [bakkesmod] Adding MMR:Steam|76561198335010787|0:PRE:1648.24|0|0 to the replay log
+[03:01:02] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: Steam|76561198335010787|0
+[03:01:02] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:01:02] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:01:02] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:01:02] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:01:02] [RankShowMod] Player Epic|647580cfe33141a6a1b55bedbeb392d9|0 is still syncing
+[03:01:02] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:01:02] [RankShowMod] Player XboxOne|2535442230192269|0 is still syncing
+[03:01:02] [RankShowMod] Setting rank for XboxOne|2535458247812985|0
+[03:01:02] [RankShowMod] Player XboxOne|2535458247812985|0 is still syncing
+[03:01:02] [RankShowMod] Skill request completed
+[03:01:02] [RankShowMod] Notifying listeners about mmr update for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:01:02] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:01:02] [bakkesmod] Adding MMR:Epic|647580cfe33141a6a1b55bedbeb392d9|0:PRE:1833.47|0|0 to the replay log
+[03:01:02] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:01:02] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:01:02] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:01:02] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:01:02] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:01:02] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:01:02] [RankShowMod] Player XboxOne|2535442230192269|0 is still syncing
+[03:01:02] [RankShowMod] Setting rank for XboxOne|2535458247812985|0
+[03:01:02] [RankShowMod] Player XboxOne|2535458247812985|0 is still syncing
+[03:01:02] [RankShowMod] Skill request completed
+[03:01:02] [RankShowMod] Notifying listeners about mmr update for XboxOne|2535458247812985|0
+[03:01:02] [bakkesmod] Got MMR request for mu=79.5331, sigma=2.5, played=325 calculated result: 1690.66
+[03:01:02] [bakkesmod] Adding MMR:XboxOne|2535458247812985|0:PRE:1690.66|0|0 to the replay log
+[03:01:02] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: XboxOne|2535458247812985|0
+[03:01:02] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:01:02] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:01:02] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:01:02] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:01:02] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:01:02] [RankShowMod] Player XboxOne|2535442230192269|0 is still syncing
+[03:01:02] [RankShowMod] Setting rank for XboxOne|2535458247812985|0
+[03:01:02] [bakkesmod] Got MMR request for mu=79.5331, sigma=2.5, played=325 calculated result: 1690.66
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Skill request completed
+[03:01:02] [RankShowMod] Notifying listeners about mmr update for XboxOne|2535442230192269|0
+[03:01:02] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:01:02] [bakkesmod] Adding MMR:XboxOne|2535442230192269|0:PRE:1701.01|0|0 to the replay log
+[03:01:02] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: XboxOne|2535442230192269|0
+[03:01:02] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:01:02] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:01:02] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:01:02] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:01:02] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:01:02] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [RankShowMod] Setting rank for XboxOne|2535458247812985|0
+[03:01:02] [bakkesmod] Got MMR request for mu=79.5331, sigma=2.5, played=325 calculated result: 1690.66
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:01:02] [RankShowMod] R false false true
+[03:01:02] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:01:02] [RankShowMod] R false false true
+[03:01:06] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:01:06] [RankShowMod] R false false true
+[03:01:06] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:01:06] [RankShowMod] R false false true
+[03:01:06] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:01:06] [RankShowMod] R false false true
+[03:01:06] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:01:06] [RankShowMod] R false false true
+[03:01:06] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:01:06] [RankShowMod] R false false true
+[03:01:06] [bakkesmod] Got MMR request for mu=79.5331, sigma=2.5, played=325 calculated result: 1690.66
+[03:01:06] [RankShowMod] R false false true
+[03:01:06] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:01:06] [RankShowMod] R false false true
+[03:01:08] [bakkesmod] Got MMR request for mu=79.5331, sigma=2.5, played=325 calculated result: 1690.66
+[03:01:08] [RankShowMod] R false false true
+[03:01:08] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:01:08] [RankShowMod] R false false true
+[03:01:08] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:01:08] [RankShowMod] R false false true
+[03:01:08] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:01:08] [RankShowMod] R false false true
+[03:01:08] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:01:08] [RankShowMod] R false false true
+[03:01:08] [bakkesmod] Got MMR request for mu=79.5331, sigma=2.5, played=325 calculated result: 1690.66
+[03:01:08] [RankShowMod] R false false true
+[03:01:08] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:01:08] [RankShowMod] R false false true
+[03:04:21] [bakkesmod] > default_down
+[03:04:21] [bakkesmod] > redirect_shoot;sv_training_mirror
+[03:04:23] [bakkesmod] > default_down
+[03:04:23] [bakkesmod] > redirect_shoot;sv_training_mirror
+[03:04:23] [bakkesmod] > default_down
+[03:04:23] [bakkesmod] > redirect_shoot;sv_training_mirror
+[03:04:23] [bakkesmod] > default_down
+[03:04:23] [bakkesmod] > redirect_shoot;sv_training_mirror
+[03:04:23] [bakkesmod] > default_down
+[03:04:23] [bakkesmod] > redirect_shoot;sv_training_mirror
+[03:04:24] [bakkesmod] > team_train_next
+[03:04:24] [bakkesmod] > team_train_reset
+[03:04:25] [DecalMod] BakkesMod::Mod::DecalMod::ServerSetLoadout:152->c->PRI is NULL!
+[03:04:25] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:04:25] [RankShowMod] R false false true
+[03:04:25] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:04:25] [RankShowMod] R false false true
+[03:04:25] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:04:25] [RankShowMod] R false false true
+[03:04:25] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:04:25] [RankShowMod] R false false true
+[03:04:25] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:04:25] [RankShowMod] R false false true
+[03:04:25] [bakkesmod] > default_down
+[03:04:25] [bakkesmod] > redirect_shoot;sv_training_mirror
+[03:04:25] [bakkesmod] > team_train_prev
+[03:04:32] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:04:32] [RankShowMod] R false false true
+[03:04:32] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:04:32] [RankShowMod] R false false true
+[03:04:32] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:04:32] [RankShowMod] R false false true
+[03:04:32] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:04:32] [RankShowMod] R false false true
+[03:04:32] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:04:32] [RankShowMod] R false false true
+[03:04:32] [RankShowMod] Skill request completed
+[03:04:32] [RankShowMod] Notifying listeners about mmr update for Epic|32c4ff943a684751b72beb67d4512682|0
+[03:04:32] [bakkesmod] Got MMR request for mu=80.5588, sigma=2.5, played=120 calculated result: 1711.18
+[03:04:32] [bakkesmod] Adding MMR:Epic|32c4ff943a684751b72beb67d4512682|0:PRE:1711.18|0|0 to the replay log
+[03:04:32] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: Epic|32c4ff943a684751b72beb67d4512682|0
+[03:04:32] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:04:32] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:04:32] [RankShowMod] R false false true
+[03:04:32] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:04:32] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:04:32] [RankShowMod] R false false true
+[03:04:32] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:04:32] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:04:32] [RankShowMod] R false false true
+[03:04:32] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:04:32] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:04:32] [RankShowMod] R false false true
+[03:04:32] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:04:32] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:04:32] [RankShowMod] R false false true
+[03:04:32] [RankShowMod] Setting rank for Epic|32c4ff943a684751b72beb67d4512682|0
+[03:04:32] [bakkesmod] Got MMR request for mu=80.5588, sigma=2.5, played=120 calculated result: 1711.18
+[03:04:32] [RankShowMod] R false false true
+[03:04:36] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:04:36] [RankShowMod] R false false true
+[03:04:36] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:04:36] [RankShowMod] R false false true
+[03:04:36] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:04:36] [RankShowMod] R false false true
+[03:04:36] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:04:36] [RankShowMod] R false false true
+[03:04:36] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:04:36] [RankShowMod] R false false true
+[03:04:36] [bakkesmod] Got MMR request for mu=80.5588, sigma=2.5, played=120 calculated result: 1711.18
+[03:04:36] [RankShowMod] R false false true
+[03:04:37] [bakkesmod] Got MMR request for mu=80.5588, sigma=2.5, played=120 calculated result: 1711.18
+[03:04:37] [RankShowMod] R false false true
+[03:04:37] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:04:37] [RankShowMod] R false false true
+[03:04:37] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:04:37] [RankShowMod] R false false true
+[03:04:37] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:04:37] [RankShowMod] R false false true
+[03:04:37] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:04:37] [RankShowMod] R false false true
+[03:04:37] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:04:37] [RankShowMod] R false false true
+[03:04:37] [bakkesmod] Got MMR request for mu=80.5588, sigma=2.5, played=120 calculated result: 1711.18
+[03:04:37] [RankShowMod] R false false true
+[03:09:04] [RankShowMod] Match ended -424594944
+[03:09:04] [RankShowMod] Match ended2 0
+[03:09:04] [RankShowMod] Setting back playlists
+[03:09:04] [bakkesmod] Adding GameEndTime:2021-05-18T03:09:04-0400 to the replay log
+[03:09:04] [bakkesmod] Adding GameWinner:0 to the replay log
+[03:09:06] [RankShowMod] Skill request completed
+[03:09:06] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:09:06] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:09:06] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:09:06] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:09:06] [RankShowMod] Setting rank for Epic|32c4ff943a684751b72beb67d4512682|0
+[03:09:06] [RankShowMod] Skill request completed
+[03:09:06] [RankShowMod] Notifying listeners about mmr update for Steam|76561199020787507|0
+[03:09:06] [bakkesmod] Got MMR request for mu=39.7334, sigma=5.68928, played=4 calculated result: 894.668
+[03:09:06] [bakkesmod] Got MMR request for mu=48.6972, sigma=6.08116, played=4 calculated result: 1073.94
+[03:09:06] [bakkesmod] Got MMR request for mu=55.18, sigma=2.54604, played=36 calculated result: 1203.6
+[03:09:06] [bakkesmod] Got MMR request for mu=53.0173, sigma=4.22956, played=17 calculated result: 1160.35
+[03:09:06] [bakkesmod] Got MMR request for mu=24.5826, sigma=7.72423, played=2 calculated result: 591.652
+[03:09:06] [bakkesmod] Got MMR request for mu=32.3344, sigma=7.78218, played=2 calculated result: 746.688
+[03:09:06] [bakkesmod] Got MMR request for mu=25, sigma=8.333, played=0 calculated result: 600
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [bakkesmod] Adding MMR:Steam|76561199020787507|0:POST:1764.39|0|0 to the replay log
+[03:09:06] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: Steam|76561199020787507|0
+[03:09:06] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:09:06] [bakkesmod] [class StreamAPIPlugin] WebSocket: pushed updates
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:09:06] [RankShowMod] Player Steam|76561198335010787|0 is still syncing
+[03:09:06] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:09:06] [RankShowMod] Player Epic|647580cfe33141a6a1b55bedbeb392d9|0 is still syncing
+[03:09:06] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:09:06] [RankShowMod] Player XboxOne|2535442230192269|0 is still syncing
+[03:09:06] [RankShowMod] Setting rank for Epic|32c4ff943a684751b72beb67d4512682|0
+[03:09:06] [RankShowMod] Player Epic|32c4ff943a684751b72beb67d4512682|0 is still syncing
+[03:09:06] [RankShowMod] Skill request completed
+[03:09:06] [RankShowMod] Notifying listeners about mmr update for XboxOne|2535442230192269|0
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0206, sigma=2.5, played=149 calculated result: 1700.41
+[03:09:06] [bakkesmod] Adding MMR:XboxOne|2535442230192269|0:POST:1700.41|0|0 to the replay log
+[03:09:06] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: XboxOne|2535442230192269|0
+[03:09:06] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:09:06] [RankShowMod] Player Steam|76561198335010787|0 is still syncing
+[03:09:06] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:09:06] [RankShowMod] Player Epic|647580cfe33141a6a1b55bedbeb392d9|0 is still syncing
+[03:09:06] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0206, sigma=2.5, played=149 calculated result: 1700.41
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0206, sigma=2.5, played=149 calculated result: 1700.41
+[03:09:06] [RankShowMod] Setting rank for Epic|32c4ff943a684751b72beb67d4512682|0
+[03:09:06] [RankShowMod] Player Epic|32c4ff943a684751b72beb67d4512682|0 is still syncing
+[03:09:06] [RankShowMod] Skill request completed
+[03:09:06] [RankShowMod] Notifying listeners about mmr update for Epic|32c4ff943a684751b72beb67d4512682|0
+[03:09:06] [bakkesmod] Got MMR request for mu=80.5287, sigma=2.5, played=121 calculated result: 1710.57
+[03:09:06] [bakkesmod] Adding MMR:Epic|32c4ff943a684751b72beb67d4512682|0:POST:1710.57|0|0 to the replay log
+[03:09:06] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: Epic|32c4ff943a684751b72beb67d4512682|0
+[03:09:06] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:09:06] [RankShowMod] Player Steam|76561198335010787|0 is still syncing
+[03:09:06] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:09:06] [RankShowMod] Player Epic|647580cfe33141a6a1b55bedbeb392d9|0 is still syncing
+[03:09:06] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0206, sigma=2.5, played=149 calculated result: 1700.41
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0206, sigma=2.5, played=149 calculated result: 1700.41
+[03:09:06] [RankShowMod] Setting rank for Epic|32c4ff943a684751b72beb67d4512682|0
+[03:09:06] [bakkesmod] Got MMR request for mu=80.5287, sigma=2.5, played=121 calculated result: 1710.57
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=80.5588, sigma=2.5, played=120 calculated result: 1711.18
+[03:09:06] [bakkesmod] Got MMR request for mu=80.5287, sigma=2.5, played=121 calculated result: 1710.57
+[03:09:06] [RankShowMod] Skill request completed
+[03:09:06] [RankShowMod] Notifying listeners about mmr update for Steam|76561198335010787|0
+[03:09:06] [bakkesmod] Got MMR request for mu=77.4434, sigma=2.54511, played=34 calculated result: 1648.87
+[03:09:06] [bakkesmod] Adding MMR:Steam|76561198335010787|0:POST:1648.87|0|0 to the replay log
+[03:09:06] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: Steam|76561198335010787|0
+[03:09:06] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:09:06] [bakkesmod] Got MMR request for mu=77.4434, sigma=2.54511, played=34 calculated result: 1648.87
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:09:06] [bakkesmod] Got MMR request for mu=77.4434, sigma=2.54511, played=34 calculated result: 1648.87
+[03:09:06] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:09:06] [RankShowMod] Player Epic|647580cfe33141a6a1b55bedbeb392d9|0 is still syncing
+[03:09:06] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0206, sigma=2.5, played=149 calculated result: 1700.41
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0206, sigma=2.5, played=149 calculated result: 1700.41
+[03:09:06] [RankShowMod] Setting rank for Epic|32c4ff943a684751b72beb67d4512682|0
+[03:09:06] [bakkesmod] Got MMR request for mu=80.5287, sigma=2.5, played=121 calculated result: 1710.57
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=80.5588, sigma=2.5, played=120 calculated result: 1711.18
+[03:09:06] [bakkesmod] Got MMR request for mu=80.5287, sigma=2.5, played=121 calculated result: 1710.57
+[03:09:06] [RankShowMod] Skill request completed
+[03:09:06] [RankShowMod] Notifying listeners about mmr update for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:09:06] [bakkesmod] Got MMR request for mu=86.7034, sigma=2.5, played=68 calculated result: 1834.07
+[03:09:06] [bakkesmod] Adding MMR:Epic|647580cfe33141a6a1b55bedbeb392d9|0:POST:1834.07|0|0 to the replay log
+[03:09:06] [bakkesmod] [class MMRNotifierTest] Got MMR update for non-local user: Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:09:06] [RankShowMod] Setting rank for Epic|659b16b6c58349d9b85e2364637b4fca|0
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=81.96, sigma=3.44547, played=18 calculated result: 1739.2
+[03:09:06] [bakkesmod] Got MMR request for mu=81.9028, sigma=3.44035, played=19 calculated result: 1738.06
+[03:09:06] [RankShowMod] Setting rank for Steam|76561199020787507|0
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=83.184, sigma=2.71132, played=18 calculated result: 1763.68
+[03:09:06] [bakkesmod] Got MMR request for mu=83.2194, sigma=2.70905, played=19 calculated result: 1764.39
+[03:09:06] [RankShowMod] Setting rank for Steam|76561198335010787|0
+[03:09:06] [bakkesmod] Got MMR request for mu=77.4434, sigma=2.54511, played=34 calculated result: 1648.87
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=77.4122, sigma=2.54699, played=33 calculated result: 1648.24
+[03:09:06] [bakkesmod] Got MMR request for mu=77.4434, sigma=2.54511, played=34 calculated result: 1648.87
+[03:09:06] [RankShowMod] Setting rank for Epic|647580cfe33141a6a1b55bedbeb392d9|0
+[03:09:06] [bakkesmod] Got MMR request for mu=86.7034, sigma=2.5, played=68 calculated result: 1834.07
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=86.6733, sigma=2.5, played=67 calculated result: 1833.47
+[03:09:06] [bakkesmod] Got MMR request for mu=86.7034, sigma=2.5, played=68 calculated result: 1834.07
+[03:09:06] [RankShowMod] Setting rank for XboxOne|2535442230192269|0
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0206, sigma=2.5, played=149 calculated result: 1700.41
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0507, sigma=2.5, played=148 calculated result: 1701.01
+[03:09:06] [bakkesmod] Got MMR request for mu=80.0206, sigma=2.5, played=149 calculated result: 1700.41
+[03:09:06] [RankShowMod] Setting rank for Epic|32c4ff943a684751b72beb67d4512682|0
+[03:09:06] [bakkesmod] Got MMR request for mu=80.5287, sigma=2.5, played=121 calculated result: 1710.57
+[03:09:06] [RankShowMod] R false false false
+[03:09:06] [bakkesmod] Got MMR request for mu=80.5588, sigma=2.5, played=120 calculated result: 1711.18
+[03:09:06] [bakkesmod] Got MMR request for mu=80.5287, sigma=2.5, played=121 calculated result: 1710.57
+[03:09:06] [bakkesmod] [class StreamAPIPlugin] WebSocket: Received payload: OK
+[03:09:10] [bakkesmod] > togglemenu console2;
+[03:09:10] [bakkesmod] Opened window console2
+[03:09:12] [bakkesmod] Closing window console2
+[03:09:14] [bakkesmod] > default_down
+[03:09:14] [bakkesmod] > redirect_shoot;sv_training_mirror
+[03:09:14] [bakkesmod] > default_down
+[03:09:14] [bakkesmod] > redirect_shoot;sv_training_mirror
+[03:09:15] [bakkesmod] > team_train_prev
+[03:09:15] [bakkesmod] [class StreamAPIPlugin] Function TAGame.LoadingScreen_TA.HandlePreLoadMap
+[03:09:15] [bakkesmod] [class StreamAPIPlugin] CustomMapSupport: received map update for: MENU_Main_p
+[03:09:15] [bakkesmod] > closemenu queuemenu
+[03:09:15] [bakkesmod] Window queuemenu not found
